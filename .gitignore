@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+/node_modules
+/vendor
+db/
+server.*
+.idea
+.crt
+.csr
+.key
+.tmp
+.env
